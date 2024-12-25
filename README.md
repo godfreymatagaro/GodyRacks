@@ -39,7 +39,7 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working on **building exciting web applications and Android Apps**
+- 🔭 I am currently dedicated to developing sophisticated **web applications and Android apps**.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
 - 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)** and let's connect.
 - ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled.
