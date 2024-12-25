@@ -31,6 +31,13 @@
   </p>
 </div>
 
+### Current Projects  
+- **[Branighan Group](https://www.branighangroup.com)** - *Real Estate*  
+- **[Lindsay The Tutor](https://www.lindsaythetutor.com)** - *Informational Website*  
+- **[Chang Adventure](https://www.changadventure.co.ke)** - *Trips & Tours Booking*  
+
+---
+
 ### About Me
 - 🔭 I’m currently working on **building exciting web applications**
 - 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
