@@ -33,7 +33,7 @@
 
 ### Current Projects  
 - **[Branighan Group](https://www.branighangroup.com)** - *Real Estate*  
-- **[Lindsay The Tutor](https://www.lindsaythetutor.com)** - *Informational Website*  
+- **[Lindsay The Tutor](https://www.lindsaythetutor.com)** - *Informational Website/ Academic writing*  
 - **[Chang Adventure](https://www.changadventure.co.ke)** - *Trips & Tours Booking*  
 
 ---
