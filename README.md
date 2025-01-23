@@ -84,4 +84,5 @@
 ---
 
 **Note:** Follow status will be automatically adjusted. If you encounter any issues, feel free to reach out via the links above.
+---
 [Credits: Prabin Panta](https://github.com/prabinpanta0/credits:pantabrabin0)
