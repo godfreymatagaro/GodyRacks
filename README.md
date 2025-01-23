@@ -86,4 +86,4 @@
 
 **Note:** Follow status will be automatically adjusted. If you encounter any issues, feel free to reach out via the links above.
 ---
-<span style="font-size: 8px;">[Credits: Prabin Panta](https://github.com/prabinpanta0/)</span>
+<span style="font-size: 2px;">[Credits: Prabin Panta](https://github.com/prabinpanta0/)</span>
