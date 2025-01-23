@@ -1,116 +1,87 @@
-<h1 align="center">Hello, there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/>!</h1>
+![Debian_linux](https://github.com/user-attachments/assets/330568e3-82cc-4999-9479-081541d2e65b)<div style="background-color: #0d1117;">
+
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Godfrey+Matagaro!...;A+Software+Developer+...;and+Web+Designer...;Enhance+your+coding+experience+!🖤&center=true&size=20" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=58a6ff&random=false&width=650&height=55&lines=Hello+There+!;I'm+Godfrey+Matagaro;It's+Nice+To+Meet+You+!">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=E6EDF3&random=false&width=650&height=55&lines=Hello+There+!;I'm+Godfrey+Matagaro;It's+Nice+To+Meet+You+!">
+    <img alt="SVG Typing" src="https://readme-typing-svg.demolab.com?font=Space+Mono&center=true&vCenter=true&size=40&duration=4000&pause=9&color=36BCF7FF&random=false&width=650&height=55&lines=Hey+There+!;I'm+Godfrey+Matagaro;It's+Nice+To+Meet+You+!">
+  </picture>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/GodyRacks?tab=followers">
-    <img src="https://img.shields.io/github/followers/GodyRacks?label=Followers&logo=GitHub&style=for-the-badge&hide_border=true" alt="GitHub badge"/>
-  </a>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=godyracks&data=followers,repositories,stars,commits&theme=radical&title_color=red">
 </p>
-
- ### Top Technologies
-<div align="center" style="max-width: 450px; margin: 0 auto;">
-  <p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-     <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/kivy-%23FF8700.svg?style=for-the-badge&logo=kivy&logoColor=white" alt="Kivy"/>
-    <img src="https://img.shields.io/badge/CodeIgniter-%23EE432E.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  </p>
-</div>
-
-### Current Projects  
-- **[Branighan Group](https://www.branighangroup.com)** - *Real Estate*  
-- **[Lindsay The Tutor](https://www.lindsaythetutor.com)** - *Informational Website/ Academic writing*  
-- **[Chang Adventure](https://www.changadventure.com)** - *Trips & Tours Booking*  
 
 ---
 
+<img align="right" height="200" src="https://i.pinimg.com/736x/68/05/df/6805df5c7dce83a617d8a3f6f9a7fd1d.jpg" />
+
 ### About Me
-- 🔭 I am currently dedicated to developing sophisticated **web applications and Android apps**.
-- 💬 Ask me about **web development, UI/UX design, and programming languages**, and I'll have something to input!
-- 📫 How to reach me: Shoot me an email at **[godyracks@gmail.com](mailto:godyracks@gmail.com)** and let's connect.
 
+- I am currently dedicated to developing sophisticated **web applications** and **Android apps**.
+- Passionate about **databases**, **APIs**, and **UI/UX Design**.
+- Proficient in languages like **C**, **Dart**, **C#**, **Python**, **HTML**, **CSS**, and **JavaScript**.
+- Experienced in working with **AWS**, **CodeIgniter**, **NLP**, and **Linux**.
+- Enthusiastic about developing creative projects and exploring emerging technologies.
 
+---
 
-🎓 Currently tinkering with C# and Cisco/Huawei network simulators. I'm also an API developer and a master of computer hardware assembly or repair.
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=godyracks&style=for-the-badge&color=blue" alt=""/>
+### 🛠 Languages and Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
+---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodyRacks&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodyRacks&theme=radical" alt="GitHub Streak Stats"/>
-</p>
+### 📊 GitHub Stats
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godyracks&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godyracks&theme=radical) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&langs_count=8&theme=radical&layout=compact) | ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=godyracks&theme=radical&utcOffset=5.45) |
 
+---
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=godyracks&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
+---
 
+### 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godyracks&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/godyracks)
 
+---
 
-<div align="center" style="max-width: 480px; margin: 0 auto;">
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/godfrey-onyinkwa-93712827a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/godyracks/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/godyracks" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/godyracks/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:godyracks@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://tiktok.com/@gody.racks" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok" alt="Hugging Face">
+  </a>
+</div>
 
-### My Favorite Tools and Technologies
- <img width="90" height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue-dot-js&logoColor=white" alt="Vue.js"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
- <img width="90" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
-  </div>
-  <br />
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
-</p>
+---
 
-### Inspirational Quotes
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
-> "Experience is the name everyone gives to their mistakes." – Oscar Wilde
-
-### Connect with Me
-<p align="center">
-  <a href="https://x.com/godyracks" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/godfrey-onyinkwa-93712827a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://www.instagram.com/godyracks/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@gody.racks/" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/></a>
-
-</p>
-
-### Support Me
-If you enjoy my work, consider supporting me:
-- Leave a star to your favorite repo
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GodyRacks/GodyRacks/main/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
-</p>
-
-
-
-
-
-
+**Note:** Follow status will be automatically adjusted. If you encounter any issues, feel free to reach out via the links above.
+[Credits: Prabin Panta](https://github.com/prabinpanta0/credits:pantabrabin0)
