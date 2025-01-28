@@ -1,4 +1,4 @@
-![Debian_linux](https://github.com/user-attachments/assets/330568e3-82cc-4999-9479-081541d2e65b)<div style="background-color: #0d1117;">
+![Debian_linux](https://i.pinimg.com/736x/81/29/92/812992f44a2cd6e6787b8b61209abf48.jpg)<div style="background-color: #0d1117;">
 
 
 <h1 align="center">
