@@ -21,7 +21,7 @@
 ### About Me
 
 - I am currently dedicated to developing sophisticated **web applications** and **Android apps**.
-- Passionate about **databases**, **APIs**, and **UI/UX Design**.
+- Passionate about **system softwares** **databases**, **APIs**, and **UI/UX Design**.
 - Proficient in languages like **C**, **Dart**, **C#**, **Python**, **HTML**, **CSS**, and **JavaScript**.
 - Experienced in working with **AWS**, **Azure**, **JavaScript** **CodeIgniter**, **NLP**, and **Linux**.
 - Enthusiastic about developing creative projects and exploring emerging technologies.
