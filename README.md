@@ -10,9 +10,7 @@
   </picture>
 </h1>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=godyracks&data=followers,repositories,stars,commits&theme=radical&title_color=red">
-</p>
+
 
 ---
 
