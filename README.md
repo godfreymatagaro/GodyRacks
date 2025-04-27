@@ -19,9 +19,9 @@
 ### About Me
 
 - I am currently dedicated to developing sophisticated **web applications** and **Mobile apps**.
-- Passionate about **system softwares** **databases**, **APIs**, and **UI/UX Design**.
-- Proficient in languages like **C**, **C#**, **Python**, **HTML**, **CSS**, and **JavaScript**.
-- Experienced in working with **AWS**, **Azure**, **JavaScript** **CodeIgniter**, **NLP**, and **Linux**.
+- Passionate about **distributed automated web system softwares** **databases**, **APIs**,  **Cacheing**,  **UI/UX Design**.
+- Proficient in languages like **React**, **Express**, **Python**, **HTML**, **CSS**, and **JavaScript**.
+- Experienced in working with **AWS**, **Node.js**, **ES6** **CodeIgniter**, **NLP**, **Linux Servers**, **Bitnami** and **Apache Servers**,.
 - Enthusiastic about developing creative projects and exploring emerging technologies.
 
 ---
