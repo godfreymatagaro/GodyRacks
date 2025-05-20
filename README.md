@@ -92,6 +92,6 @@
 
 ---
 
-Note: Follow status will be automatically adjusted. If you encounter any issues, feel free to reach out via the links above...
+Note: Follow status will be automatically adjusted. If you encounter any issues, feel free to reach out via the links above.
 ---
 
