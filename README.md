@@ -33,7 +33,7 @@ Hi! I'm a passionate developer specializing in **web applications** and **mobile
 
 ### Connect
 - **Email**: [info@rackssoftwares.co.ke](mailto:info@rackssoftwares.co.ke)
-- **Portfolio**: Check out more of my UI/UX designs on [Figma](https://www.figma.com/@odyracks)
+- **Portfolio**: Check out more of my UI/UX designs on [Figma](https://www.figma.com/@godyracks)
 
 I’m dedicated to building creative projects and exploring emerging technologies. Let’s collaborate to bring your ideas to life!
 
