@@ -18,14 +18,28 @@
 
 ## About Me
 
-I specialize in crafting  **web applications** and **mobile apps**. My work focuses on delivering seamless user experiences and robust functionality. Notable projects include:
 
-- [Patamech](https://patamech.com): A dynamic web application showcasing innovative design and performance.
+Hi! I'm a passionate developer specializing in **web applications** and **mobile apps**, focused on delivering seamless user experiences and robust functionality. My work blends innovative design, performance optimization, and modern web technologies. Check out some of my notable projects:
 
-- Passionate about **distributed automated web system softwares**, **databases**, **APIs**,  **Caching**,  **UI/UX Design**.
-- Proficient in frameworks &  languages like **React**, **Express**, **PHP**, **HTML**, **CSS**, and **JavaScript**.
-- Experienced in working with **AWS**, **Node.js**, **ES6** **CodeIgniter**, **NLP**, **Linux Servers**, and **Apache Servers**,.
-- Enthusiastic about developing creative projects and exploring emerging technologies.
+
+- **[BG](https://branighan.vercel.app)**: A dynamic web application for house hunting.
+- **[Branighan Real Estate UI/UX](https://www.figma.com/design/58Jlic3ZY4ZMO5tFnA8dUf/Branighan-real-estate?node-id=0-1&t=DmSiw6K3SGgfetKU-1)**: A Figma project demonstrating intuitive UI/UX design for a real estate platform.
+
+### Expertise
+- **Passionate About**: Distributed automated web systems, databases, APIs, caching, and UI/UX design.
+- **Proficient In**: Frameworks and languages like React, Express, PHP, HTML, CSS, and JavaScript.
+- **Experienced With**: AWS, Node.js, ES6, CodeIgniter, NLP, Linux servers, and Apache servers.
+- **Open Source**: Enthusiastic contributor to open-source projects, focusing on innovative web and mobile solutions. 
+
+### Connect
+- **Email**: [info@rackssoftwares.co.ke](mailto:info@rackssoftwares.co.ke)
+- **Portfolio**: Check out more of my UI/UX designs on [Figma](https://www.figma.com/@yourusername)
+
+I’m dedicated to building creative projects and exploring emerging technologies. Let’s collaborate to bring your ideas to life!
+
+---
+⭐️ If you find my work inspiring, give my repos a star on [GitHub](https://github.com/yourusername)!  
+📫 Reach out via [email](mailto:info@rackssoftwares.co.ke) for project inquiries or collaboration.
 
 ---
 
