@@ -18,7 +18,7 @@
 
 ## About Me
 
-I specialize in crafting sophisticated **web applications** and **mobile apps**. My work focuses on delivering seamless user experiences and robust functionality. Notable projects include:
+I specialize in crafting  **web applications** and **mobile apps**. My work focuses on delivering seamless user experiences and robust functionality. Notable projects include:
 
 - [Patamech](https://patamech.com): A dynamic web application showcasing innovative design and performance.
 
