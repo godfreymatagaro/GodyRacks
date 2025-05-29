@@ -18,7 +18,7 @@
 
 ### About Me
 
-- I am currently dedicated to developing sophisticated **web applications** and **Mobile apps** 
+- I am currently dedicated to developing sophisticated **web applications e.g <a href="patamech.com">patamech.com</a>** and **Mobile apps** 
 - Passionate about **distributed automated web system softwares**, **databases**, **APIs**,  **Caching**,  **UI/UX Design**.
 - Proficient in frameworks &  languages like **React**, **Express**, **PHP**, **HTML**, **CSS**, and **JavaScript**.
 - Experienced in working with **AWS**, **Node.js**, **ES6** **CodeIgniter**, **NLP**, **Linux Servers**, and **Apache Servers**,.
