@@ -16,9 +16,12 @@
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/68/05/df/6805df5c7dce83a617d8a3f6f9a7fd1d.jpg" />
 
-### About Me
+## About Me
 
-- I am currently dedicated to developing sophisticated **web applications e.g <a href="https:patamech.com">patamech.com</a>** and **Mobile apps** 
+I specialize in crafting sophisticated **web applications** and **mobile apps**. My work focuses on delivering seamless user experiences and robust functionality. Notable projects include:
+
+- [Patamech](https://patamech.com): A dynamic web application showcasing innovative design and performance.
+
 - Passionate about **distributed automated web system softwares**, **databases**, **APIs**,  **Caching**,  **UI/UX Design**.
 - Proficient in frameworks &  languages like **React**, **Express**, **PHP**, **HTML**, **CSS**, and **JavaScript**.
 - Experienced in working with **AWS**, **Node.js**, **ES6** **CodeIgniter**, **NLP**, **Linux Servers**, and **Apache Servers**,.
