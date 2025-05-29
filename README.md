@@ -21,7 +21,7 @@
 
 Hi! I'm a passionate developer specializing in **web applications** and **mobile apps**, focused on delivering seamless user experiences and robust functionality. My work blends innovative design, performance optimization, and modern web technologies. Check out some of my notable projects:
 
-- **[PM](https://patamech.com)**: A dynamic web application for finding roadside mechs, tows & spares.
+
 - **[BG](https://branighan.vercel.app)**: A dynamic web application for house hunting.
 - **[Branighan Real Estate UI/UX](https://www.figma.com/design/58Jlic3ZY4ZMO5tFnA8dUf/Branighan-real-estate?node-id=0-1&t=DmSiw6K3SGgfetKU-1)**: A Figma project demonstrating intuitive UI/UX design for a real estate platform.
 
