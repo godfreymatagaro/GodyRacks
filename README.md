@@ -28,9 +28,7 @@
 
 I’m dedicated to building creative projects and exploring emerging technologies. Let’s collaborate to bring your ideas to life!
 
----
-⭐️ If you find my work inspiring, give my repos a star on [GitHub](https://github.com/godyracks)!  
-📫 Reach out via [email](mailto:info@rackssoftwares.co.ke) for project inquiries or collaboration.
+
 
 ---
 
