@@ -58,19 +58,19 @@ I’m dedicated to building creative projects and exploring emerging technologie
 ---
 
 ### 📊 GitHub Stats
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godyracks&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godyracks&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfreymatagaro&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfreymatagaro&theme=radical) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godyracks&langs_count=8&theme=radical&layout=compact) | ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=godyracks&theme=radical&utcOffset=5.45) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godfreymatagaro&langs_count=8&theme=radical&layout=compact) | ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=godfreymatagaro&theme=radical&utcOffset=5.45) |
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=godyracks&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=godfreymatagaro&theme=radical&no-frame=false&no-bg=true&margin-w=5)
 
 ---
 
 ### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godyracks&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/godyracks)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godfreymatagaro&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&border_color=7F3FBF)](https://github.com/godfreymatagaro)
 
 ---
 
@@ -82,18 +82,14 @@ I’m dedicated to building creative projects and exploring emerging technologie
   <a href="https://www.instagram.com/godyracks/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/godyracks" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://twitter.com/godyracks/" target="_blank">
+  <a href="https://www.facebook.com/godfreymatagaro" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:godyracks@gmail.com" target="_blank">
+  <a href="mailto:godfreymatagaro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://tiktok.com/@gody.racks" target="_blank">
-    <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=Tiktok" alt="Hugging Face">
-  </a>
+  
 </div>
 
 ---
